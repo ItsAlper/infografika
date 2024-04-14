@@ -1,5 +1,5 @@
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Segoe UI', sans-serif;
     background-color: #f9f9f9;
     margin: 0;
     padding: 0;
@@ -44,7 +44,6 @@ h1::after {
     max-width: 1200px;
     margin: 20px auto;
 }
-
 
 .block {
     width: 550px;
@@ -92,6 +91,19 @@ p {
     height: auto;
 }
 
+.footer {
+    background-color: #000000;
+    padding: 20px 0;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+}
+
+.footer-text p {
+    margin: 5px 0;
+    color: #ffffff; 
+}
+
 @media only screen and (max-width: 768px) {
     .infografika {
         flex-direction: column;
@@ -104,17 +116,4 @@ p {
         width: calc(100% - 40px);
         margin: 10px
     }
-}
-
-.footer {
-    background-color: #000000;
-    padding: 20px 0;
-    text-align: center;
-    width: 100%;
-    bottom: 0;
-}
-
-.footer-text p {
-    margin: 5px 0;
-    color: #ffffff; 
 }
