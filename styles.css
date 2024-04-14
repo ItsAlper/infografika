@@ -1,0 +1,120 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    color: #000000;
+    position: relative;
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+
+h1::before {
+    content: '';
+    position: absolute;
+    width: 50%;
+    height: 3px;
+    background-color: #000000;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+h1::after {
+    content: '';
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    background-color: #f9f9f9;
+    border: 3px solid #000000;
+    border-radius: 50%;
+    bottom: -25px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.infografika {
+    display: flex;
+    justify-content: space-around;
+    max-width: 1200px;
+    margin: 20px auto;
+}
+
+
+.block {
+    width: 550px;
+    height: 350px;
+    padding: 20px;
+    margin: 20px auto;
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+    text-align: center;
+    transition: transform 0.5s ease-in-out;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.block:hover {
+    transform: translateY(-8px);
+}
+
+.block {
+    height: auto;
+}
+
+.circle, .square {
+    display: none;
+}
+
+h2 {
+    color: #000000;
+    font-size: 28px;
+    margin-bottom: 20px;
+    text-decoration: underline;
+}
+
+p {
+    color: #363636;
+    font-size: 18px;
+    border-left: 2px solid #000000;
+    padding-left: 15px;
+}
+
+.infografika img {
+    max-width: 100%;
+    height: auto;
+}
+
+@media only screen and (max-width: 768px) {
+    .infografika {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .block {
+        width: calc(100% - 40px);
+        margin: 10px
+    }
+}
+
+.footer {
+    background-color: #000000;
+    padding: 20px 0;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+}
+
+.footer-text p {
+    margin: 5px 0;
+    color: #ffffff; 
+}
