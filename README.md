@@ -1,22 +1,18 @@
 # Infografika
 
 - Web disponuje velmi jednoduchou, avšak mým subjektivním názorem, velmi moderní grafikou.
-- Obsahem je 6 bloků, které vždy obsahují nadpis o daném algoritmu, jeho popis a poté následná ukázká kódu z Visual Studio Code, která je za mě velmi důležitá pro představu řešení dané problematiky.
-- V levé části bloků jsou obashově kratší témata i kratší kódy, v pravé části je tomu naopak. Je to naschvál a za mě to zobrazení bloků, kdy nejsou přesně vedle sebe, ale v podstatě řečeno "na půli cesty" sobě navzájem je velmi pěkné, a není to takové moc jednotné a nečím to vybočuje.
+- Obsahem je 6 bloků, které vždy obsahují nadpis o daném algoritmu, jeho popis.
 - Na závěr je pouze footer, který jste vy dle zadání chtěl, s informace o jméně, roce, typu studia a mé třídě.
 - Web je plně responzivní, i na Iphonu 14 by se krásně ukázal.
-- Možná si řeknete, že toto není úplně ta pravá infografika. Nicméně toto by mi pomohlo mnohem víc, přehledné, v blokách, s ukázkami daných typů algoritmů, o kterých tato webpage je.
 
 *pakliže jsou obrázky ve špatné kvalitě, to se omlouvám, ale z nějakého důvodu se mi toto děje.. stačí obrázek otevřít na novém odkazu*
 
 PREVIEW 1
-![gh1](https://github.com/ItsAlper/infografika/assets/75456808/65df7035-b5ab-4a10-958d-16c309b2714c)
+![image](https://github.com/ItsAlper/infografika/assets/75456808/04bd9584-333e-441f-8a21-c9b566a46a83)
 PREVIEW 2
-![gh2](https://github.com/ItsAlper/infografika/assets/75456808/65aae14a-24aa-4215-9937-8b9b68ca2861)
-PREVIEW 3
-![gh3](https://github.com/ItsAlper/infografika/assets/75456808/53aad741-d278-468f-8002-24c838799a59)
+![image](https://github.com/ItsAlper/infografika/assets/75456808/14f90c51-71ac-41a9-80dc-72d38d0a430b)
+PREVIEW 3 - RESPONZIVITA
+![image](https://github.com/ItsAlper/infografika/assets/75456808/a06c68f5-2210-4ff6-ab68-d3e1c45659f2)
 PREVIEW 4 - RESPONZIVITA
-![GH4](https://github.com/ItsAlper/infografika/assets/75456808/e3c69626-0b7c-4840-9c13-9dc47c433569)
-PREVIEW 5 - RESPONZIVITA
-![gh5](https://github.com/ItsAlper/infografika/assets/75456808/20ee867a-6f23-45be-8dc0-a5c2589d053c)
+![image](https://github.com/ItsAlper/infografika/assets/75456808/0d07a980-f70d-40f1-980e-aa3edfd53266)
 
