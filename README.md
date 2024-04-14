@@ -5,6 +5,7 @@
 - V levé části bloků jsou obashově kratší témata i kratší kódy, v pravé části je tomu naopak. Je to naschvál a za mě to zobrazení bloků, kdy nejsou přesně vedle sebe, ale v podstatě řečeno "na půli cesty" sobě navzájem je velmi pěkné, a není to takové moc jednotné a nečím to vybočuje.
 - Na závěr je pouze footer, který jste vy dle zadání chtěl, s informace o jméně, roce, typu studia a mé třídě.
 - Web je plně responzivní, i na Iphonu 14 by se krásně ukázal.
+- Možná si řeknete, že toto není úplně ta pravá infografika. Nicméně toto by mi pomohlo mnohem víc, přehledné, v blokách, s ukázkami daných typů algoritmů, o kterých tato webpage je.
 
 *pakliže jsou obrázky ve špatné kvalitě, to se omlouvám, ale z nějakého důvodu se mi toto děje.. stačí obrázek otevřít na novém odkazu*
 
