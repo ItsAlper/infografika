@@ -16,3 +16,9 @@ PREVIEW 3 - RESPONZIVITA
 PREVIEW 4 - RESPONZIVITA
 ![image](https://github.com/ItsAlper/infografika/assets/75456808/0d07a980-f70d-40f1-980e-aa3edfd53266)
 
+*zdroje jsem dodal po půnoci, zapomněl jsem na ně*
+## Zdroje
+
+https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
+https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
+https://www.geeksforgeeks.org/0-1-knapsack-using-least-count-branch-and-bound/?ref=lbp
