@@ -1,5 +1,11 @@
 # Infografika
 
+Web disponuje velmi jednoduchou, avšak mým subjektivním názorem, velmi moderní grafikou.
+Obsahem je 6 bloků, které vždy obsahují nadpis o daném algoritmu, jeho popis a poté následná ukázká kódu z Visual Studio Code, která je za mě velmi důležitá pro představu řešení dané problematiky.
+V levé části bloků jsou obashově kratší témata i kratší kódy, v pravé části je tomu naopak. Je to naschvál a za mě to zobrazení bloků, kdy nejsou přesně vedle sebe, ale v podstatě řečeno "na půli cesty" sobě navzájem je velmi pěkné, a není to takové moc jednotné a nečím to vybočuje.
+Na závěr je pouze footer, který jste vy dle zadání chtěl, s informace o jméně, roce, typu studia a mé třídě.
+Web je plně responzivní, i na Iphonu 14 by se krásně ukázal.
+
 PREVIEW 1
 ![gh1](https://github.com/ItsAlper/infografika/assets/75456808/65df7035-b5ab-4a10-958d-16c309b2714c)
 PREVIEW 2
