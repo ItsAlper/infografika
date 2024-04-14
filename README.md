@@ -1,6 +1,6 @@
 # Infografika
 
-Web disponuje velmi jednoduchou, avšak mým subjektivním názorem, velmi moderní grafikou.
+- Web disponuje velmi jednoduchou, avšak mým subjektivním názorem, velmi moderní grafikou.
 Obsahem je 6 bloků, které vždy obsahují nadpis o daném algoritmu, jeho popis a poté následná ukázká kódu z Visual Studio Code, která je za mě velmi důležitá pro představu řešení dané problematiky.
 V levé části bloků jsou obashově kratší témata i kratší kódy, v pravé části je tomu naopak. Je to naschvál a za mě to zobrazení bloků, kdy nejsou přesně vedle sebe, ale v podstatě řečeno "na půli cesty" sobě navzájem je velmi pěkné, a není to takové moc jednotné a nečím to vybočuje.
 Na závěr je pouze footer, který jste vy dle zadání chtěl, s informace o jméně, roce, typu studia a mé třídě.
