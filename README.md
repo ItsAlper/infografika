@@ -15,4 +15,5 @@ PREVIEW 3
 PREVIEW 4 - RESPONZIVITA
 ![GH4](https://github.com/ItsAlper/infografika/assets/75456808/e3c69626-0b7c-4840-9c13-9dc47c433569)
 PREVIEW 5 - RESPONZIVITA
-![gh5](https://github.com/ItsAlper/infografika/assets/75456808/3f55ca6c-cc6c-4504-a245-8263584acbe1)
+![gh5](https://github.com/ItsAlper/infografika/assets/75456808/20ee867a-6f23-45be-8dc0-a5c2589d053c)
+
