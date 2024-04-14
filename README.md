@@ -21,6 +21,6 @@ PREVIEW 4 - RESPONZIVITA
 
 https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
 
-https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
+https://www.geeksforgeeks.org/0-1-knapsack-using-branch-and-bound/?ref=lbp
 
-https://www.geeksforgeeks.org/0-1-knapsack-using-least-count-branch-and-bound/?ref=lbp
+https://jamesmccaffrey.wordpress.com/2021/12/17/knapsack-problem-using-simulated-annealing-example/
