@@ -20,5 +20,7 @@ PREVIEW 4 - RESPONZIVITA
 ## Zdroje
 
 https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
+
 https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
+
 https://www.geeksforgeeks.org/0-1-knapsack-using-least-count-branch-and-bound/?ref=lbp
